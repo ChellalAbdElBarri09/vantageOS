@@ -1,0 +1,6 @@
+{
+  "name": "Personal Progress Tracker",
+  "description": "A calm, flexible personal operating system and progress tracker for daily routines, academics, SAT, habits, sleep, reading, and goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
